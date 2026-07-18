@@ -1,4 +1,4 @@
-# Results-of-the-tutorial-provided-by-Unity
+# Unity Tutorial
 
 I finished tutorial from Unity.
 Results:
